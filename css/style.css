@@ -1,4 +1,20 @@
-body {
+#site_header {
 
-    background-color: blueviolet;
+    background-color:dodgerblue;
+    background-image: url(../Img/pattern.png) ;
+    background-size: 280px;
+}
+
+.logo_img {
+    padding: 1rem 4rem;
+    width: 140px;
+}
+
+#site_main {
+    padding: 1rem 4rem;
+}
+
+#title {
+
+    size: 1000px;
 }
